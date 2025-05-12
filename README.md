@@ -4,6 +4,12 @@
 This project aims to build a **regression model to predict listing prices** using multiple numerical features such as ratings, reviews, bathrooms, bedrooms, guests, etc. The project leverages a **Dense Neural Network (DNN)** to model the complex relationships between the provided features and the target price.
 
 ---
+## 📦 Dataset
+
+The dataset used for this project contains listing information such as ratings, reviews, bedrooms, bathrooms, guests, etc.
+
+- **Dataset link**: [Download Dataset](https://drive.google.com/drive/folders/1b4wyeI3MGDZXzKx0KR0ZTy6-lPAPBIuK)
+
 
 ## 📊 Dataset Description
 The dataset contains the following features:
@@ -73,4 +79,3 @@ Classification metrics like accuracy, precision, recall, and AUC-ROC were **not 
 
 ---
 
-## 📂 Project Structure
